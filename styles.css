@@ -1,0 +1,14 @@
+*{
+    font-family: 'Times New Roman', Arial, sans-serif;
+}
+
+.recipeTitle {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Arial, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
