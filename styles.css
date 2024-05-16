@@ -1,5 +1,6 @@
 *{
     font-family: 'Times New Roman', Arial, sans-serif;
+    background-color: silver;
 }
 
 .recipeTitle {
@@ -11,4 +12,13 @@
 img {
     height: auto;
     width: 500px;
+}
+
+.recipeLink {
+    font-size: 20px;
+}
+
+#ingredientsSubTitle,
+#directionsSubTitle {
+    color: brown;
 }
